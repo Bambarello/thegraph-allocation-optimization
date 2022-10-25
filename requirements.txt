@@ -46,7 +46,7 @@ wheel==0.36.2
 redis
 httpx
 plotly-express
-streamlit
+streamlit==1.9.2
 millify
 streamlit-lottie
 aiohttp
